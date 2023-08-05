@@ -1,0 +1,7 @@
+Commands
+
+cdk init --language typescript
+npm install @aws-cdk/aws-ecs @aws-cdk/aws-ec2 @aws-ecs-patterns
+cdk synth
+cdk deploy
+cdk destroy
